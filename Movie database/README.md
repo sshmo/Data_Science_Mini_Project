@@ -14,5 +14,5 @@ We have a dataset of 3000 movies from the internet movie database here. This dat
 4.	Provide a plot of average revenue/budget ratio in different years. (X-axis would be years and Y-axis would be the average revenue/budget ratio)
 5.	Group all movies into different subgroups based on budget, revenue and popularity. (Drop the movies with budget or revenue lower than 10000, these are unknown values)
 Explain how you choose the number of these groups. Can you provide an explanation about each group?
-1.	We have some users who like to be different and ‘swim against the current’. Find them the most weird movies in terms of runtime, budget, number of cast, etc. Feel free to improvise and combine the columns! Explain your results.
+6.	We have some users who like to be different and ‘swim against the current’. Find them the most weird movies in terms of runtime, budget, number of cast, etc. Feel free to improvise and combine the columns! Explain your results.
 
